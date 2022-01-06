@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\convert dimensional string\convert dimensional string\bin\Debug\convert dimensional string.exe.config
+c:\users\user\documents\visual studio 2015\Projects\convert dimensional string\convert dimensional string\bin\Debug\convert dimensional string.exe
+c:\users\user\documents\visual studio 2015\Projects\convert dimensional string\convert dimensional string\bin\Debug\convert dimensional string.pdb
+c:\users\user\documents\visual studio 2015\Projects\convert dimensional string\convert dimensional string\obj\Debug\convert dimensional string.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\convert dimensional string\convert dimensional string\obj\Debug\convert dimensional string.exe
+c:\users\user\documents\visual studio 2015\Projects\convert dimensional string\convert dimensional string\obj\Debug\convert dimensional string.pdb
