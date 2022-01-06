@@ -1,0 +1,1 @@
+c:\users\user\documents\visual studio 2015\Projects\palindrome string\palindrome string\bin\Release\palindrome string.exe.config
