@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\substrings\substrings\bin\Debug\substrings.exe.config
+c:\users\user\documents\visual studio 2015\Projects\substrings\substrings\bin\Debug\substrings.exe
+c:\users\user\documents\visual studio 2015\Projects\substrings\substrings\bin\Debug\substrings.pdb
+c:\users\user\documents\visual studio 2015\Projects\substrings\substrings\obj\Debug\substrings.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\substrings\substrings\obj\Debug\substrings.exe
+c:\users\user\documents\visual studio 2015\Projects\substrings\substrings\obj\Debug\substrings.pdb
