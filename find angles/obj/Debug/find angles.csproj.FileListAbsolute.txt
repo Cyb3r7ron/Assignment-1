@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\find angles\find angles\bin\Debug\find angles.exe.config
+c:\users\user\documents\visual studio 2015\Projects\find angles\find angles\bin\Debug\find angles.exe
+c:\users\user\documents\visual studio 2015\Projects\find angles\find angles\bin\Debug\find angles.pdb
+c:\users\user\documents\visual studio 2015\Projects\find angles\find angles\obj\Debug\find angles.exe
+c:\users\user\documents\visual studio 2015\Projects\find angles\find angles\obj\Debug\find angles.pdb
