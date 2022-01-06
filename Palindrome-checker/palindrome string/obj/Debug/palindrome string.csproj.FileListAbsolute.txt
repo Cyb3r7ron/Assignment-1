@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2015\Projects\palindrome string\palindrome string\bin\Debug\palindrome string.exe.config
-c:\users\user\documents\visual studio 2015\Projects\palindrome string\palindrome string\bin\Debug\palindrome string.exe
-c:\users\user\documents\visual studio 2015\Projects\palindrome string\palindrome string\bin\Debug\palindrome string.pdb
-c:\users\user\documents\visual studio 2015\Projects\palindrome string\palindrome string\obj\Debug\palindrome string.exe
-c:\users\user\documents\visual studio 2015\Projects\palindrome string\palindrome string\obj\Debug\palindrome string.pdb
-c:\users\user\documents\visual studio 2015\Projects\palindrome string\palindrome string\obj\Debug\palindrome string.csprojResolveAssemblyReference.cache
