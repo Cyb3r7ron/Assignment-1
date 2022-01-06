@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\reverse string\reverse string\bin\Release\reverse string.exe.config
+c:\users\user\documents\visual studio 2015\Projects\reverse string\reverse string\bin\Release\reverse string.exe
+c:\users\user\documents\visual studio 2015\Projects\reverse string\reverse string\bin\Release\reverse string.pdb
+c:\users\user\documents\visual studio 2015\Projects\reverse string\reverse string\obj\Release\reverse string.exe
+c:\users\user\documents\visual studio 2015\Projects\reverse string\reverse string\obj\Release\reverse string.pdb
